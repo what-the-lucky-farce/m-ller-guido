@@ -1,0 +1,3 @@
+# _Intro to ML with Python_ by Andreas C. Müller & Sarah Guido
+
+Notes while reading...
