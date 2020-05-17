@@ -1,3 +1,3 @@
-# _Introduction to Machine Learning with Python_ by Müller & Guido
+# _Introduction to Machine Learning with Python_<br/> by Müller & Guido
 
 Notes while reading...
