@@ -1,3 +1,3 @@
-# _Intro to ML with Python_ by Andreas C. Müller & Sarah Guido
+# _Introduction to Machine Learning with Python_ by Müller & Guido
 
 Notes while reading...
